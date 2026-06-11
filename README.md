@@ -113,9 +113,6 @@ jupyter notebook movies_analysis.ipynb
 
 **Sujan**  
 IBM Professional Data Analyst Certificate  
-[GitHub](#) · [Tableau Public](#) · [LinkedIn](#)
+[GitHub](https://github.com/Diamonic12) · [Tableau Public](https://public.tableau.com/app/profile/sujan.pathak/vizzes) · [LinkedIn](www.linkedin.com/in/sujan-pathak-bb917b197)
 
 ---
-
-## 📄 License
-This project is open-source under the [MIT License](LICENSE).
