@@ -30,7 +30,7 @@ movie-analysis/
 
 | Property | Detail |
 |---|---|
-| Source | [Kaggle — Movies Dataset](https://www.kaggle.com/) |
+| Source | [Kaggle — Movies Dataset](https://www.kaggle.com/datasets/danielgrijalvas/movies) |
 | Records | 7,668 films |
 | Time period | 1980 – 2020 |
 | Columns | 15 (name, rating, genre, year, released, score, votes, director, writer, star, country, budget, gross, company, runtime) |
